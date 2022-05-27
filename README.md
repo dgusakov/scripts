@@ -148,6 +148,7 @@ To mask obsoleted tests and prevent them from running by `brownie test` even
 when residing in archive directory, please consider to rename them:
 `test_` → `xtest_`.
 
+
 ## Use cases and scripts examples
 
 * [Node operators management](usecase/node_operators_management.md)
